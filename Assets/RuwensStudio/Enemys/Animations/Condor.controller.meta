@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cdca5237c48464a439f9ac2d288cc454
+timeCreated: 1518860465
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 110679
+  packageName: Low Polygon_Animal
+  packageVersion: 1.0
+  assetPath: Assets/_Gloomy_Animal/Animations/Condor.controller
+  uploadId: 230390

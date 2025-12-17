@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6bcb59c8b82da6f46bac073ea88f203c
+timeCreated: 1515039686
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108622
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Seris_Voxel_Characters/Dragons/Animations/Vox_Dragon_Atk_Claw_L.anim
+  uploadId: 222461

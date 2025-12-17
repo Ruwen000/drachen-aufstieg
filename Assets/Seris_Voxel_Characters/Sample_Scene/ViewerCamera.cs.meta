@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: dfd5ab18e0e1e184bba8c11f903c03ed
+timeCreated: 1515200807
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 108622
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Seris_Voxel_Characters/Sample_Scene/ViewerCamera.cs
+  uploadId: 222461
