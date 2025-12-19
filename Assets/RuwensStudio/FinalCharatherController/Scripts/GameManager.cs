@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     public Button[] uiButtons = new Button[4];
 
     [Tooltip("Die 6 TextMeshPro Texte, die erst nach der Anleitung sichtbar werden sollen")]
-    public TMP_Text[] infoTexts = new TMP_Text[6];
+    public TMP_Text[] infoTexts = new TMP_Text[8];
 
     [Tooltip("Canvas, das den Lebensbalken enthält")]
     public Canvas healthBarCanvas;
@@ -229,9 +229,9 @@ public class GameManager : MonoBehaviour
             if (pauseText != null)
             {
                 pauseText.text = "PAUSE\n\n" +
-                                 "ENTER = Weiter\n" +
-                                 "Q = Beenden\n" +
-                                 "ESC = Zurück";
+                                 "ENTER     =   Weiter\n" +
+                                 "Q         =   Beenden\n" +
+                                 "ESC       =   Zurück";
             }
         }
 

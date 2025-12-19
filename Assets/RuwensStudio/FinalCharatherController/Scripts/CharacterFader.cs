@@ -117,7 +117,6 @@ public class CharacterFader : MonoBehaviour
         }
         else
         {
-            // Fade wenn Maus über Drachen (Hover)
             if (fadeOnHover)
             {
                 bool hoverHits = IsMouseOverSelf(out RaycastHit hit);
